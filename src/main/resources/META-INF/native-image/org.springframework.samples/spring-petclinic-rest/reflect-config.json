@@ -1,0 +1,50 @@
+[
+{
+  "name":"springfox.documentation.spi.schema.ModelBuilderPlugin"
+},
+{
+  "name":"springfox.documentation.spi.schema.ModelPropertyBuilderPlugin"
+},
+{
+  "name":"springfox.documentation.spi.schema.TypeNameProviderPlugin"
+},
+{
+  "name":"springfox.documentation.spi.schema.SyntheticModelProviderPlugin"
+},
+{
+  "name":"springfox.documentation.spi.schema.ViewProviderPlugin"
+},
+{
+  "name":"springfox.documentation.spi.service.DocumentationPlugin"
+},
+{
+  "name":"springfox.documentation.spi.service.ApiListingBuilderPlugin"
+},
+{
+  "name":"springfox.documentation.spi.service.OperationBuilderPlugin"
+},
+{
+  "name":"springfox.documentation.spi.service.ParameterBuilderPlugin"
+},
+{
+  "name":"springfox.documentation.spi.service.ResponseBuilderPlugin"
+},
+{
+  "name":"springfox.documentation.spi.service.ExpandedParameterBuilderPlugin"
+},
+{
+  "name":"springfox.documentation.spi.service.OperationModelsProviderPlugin"
+},
+{
+  "name":"springfox.documentation.spi.service.DefaultsProviderPlugin"
+},
+{
+  "name":"springfox.documentation.service.PathDecorator"
+},
+{
+  "name":"springfox.documentation.spi.service.ApiListingScannerPlugin"
+},
+{
+  "name":"springfox.documentation.spi.service.ModelNamesRegistryFactoryPlugin"
+}
+]
